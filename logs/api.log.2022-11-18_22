@@ -1,0 +1,13 @@
+[2022-11-18 22:30:56,245] 37005 4527957504 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:31:33,233] 37107 4685710848 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:33:14,258] 37259 4451788288 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:33:17,993] 37259 4451788288 root INFO nuclei : 14 Nuclei scan for domain ostadkar.ir with uuid 4a9a66f3-41b7-4a06-bd78-0aa2a19514f3
+[2022-11-18 22:34:05,244] 37344 4584535552 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:34:06,594] 37344 4584535552 root INFO nuclei : 14 Nuclei scan for domain ostadkar.ir with uuid 2ba1d1ed-567b-4716-9cac-acfa965ef81d
+[2022-11-18 22:34:06,594] 37344 4584535552 root ERROR nuclei : 35 Expected DBTxn argument, bytes found.
+[2022-11-18 22:34:39,361] 37448 4340860416 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:34:41,277] 37448 4340860416 root INFO nuclei : 14 Nuclei scan for domain ostadkar.ir with uuid bb61e796-f446-4e33-a472-df9e51e8bc91
+[2022-11-18 22:35:11,372] 37448 4340860416 root ERROR nuclei : 35 'subdomain'
+[2022-11-18 22:35:43,343] 37588 4338144768 root INFO main : 19 Service got up & running right now!
+[2022-11-18 22:35:46,894] 37588 4338144768 root INFO nuclei : 14 Nuclei scan for domain ostadkar.ir with uuid 405c6631-8994-4b96-9138-32c198cee1ad
+[2022-11-18 22:36:16,928] 37588 4338144768 root ERROR nuclei : 35 'subdomain'

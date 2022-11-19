@@ -1,0 +1,1 @@
+insert into scanned_domains (scan_id, domain, date, status) values ("{scan_id}", "{domain}", "{date}", "{status}");

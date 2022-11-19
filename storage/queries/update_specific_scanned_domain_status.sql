@@ -1,0 +1,1 @@
+update scanned_domains set status="{status}" where scan_id="{scan_id}"
